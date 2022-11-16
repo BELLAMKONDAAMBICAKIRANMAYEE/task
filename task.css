@@ -1,0 +1,31 @@
+.bgimg{
+    background-image: url("https://res.cloudinary.com/digdliiab/image/upload/v1668580852/top-view-breakfast-fried-eggs-plate-with-cutlery_23-2148891779.jpg_hkswq8.jpg");
+    width:100vw;
+    height:100vh;
+    background-size:cover;
+}
+.layoutcard{
+    background-color: rgb(198, 198, 58);
+    height: 200px;
+    padding:15px;
+    border-top-left-radius:15px ;
+    border-bottom-right-radius:15px ;
+}
+.heading{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+.paraline{
+    color: rgb(99, 94, 94);
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.button{
+    background-color: white;
+    border-radius:8px;
+    border-width: 0em;
+}
+.button:hover{
+    transform: scale(1.08);
+}
